@@ -37,7 +37,7 @@ In this project, we will choose the best time series model and forecast 1 year o
     5.plot the decomposition graph of Each y variable and check for trend and seasonality in the data.
     6.with the help of decomposition plot we will chose prefered timeseries models
    
-3. MODEL BUILDING
+2. MODEL BUILDING
 
   with the help of statsmodels library we will try to build a time series model such that it forecast values for each variable .
 
@@ -45,6 +45,11 @@ In this project, we will choose the best time series model and forecast 1 year o
 
     1. Holt-Winter model
     2. SARIMAX model
+
+3. FORECASTING
+
+   we will try to forecast each variable for year 2018
+
 
 
 ## USED LIBRARIES:
@@ -54,4 +59,4 @@ In this project, we will choose the best time series model and forecast 1 year o
 4. SEABORN
 5. SKLEARN
 6. statsmodels
-7. 7.pmdarima
+7. pmdarima
